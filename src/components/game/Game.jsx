@@ -4,7 +4,7 @@ import styles from './Game.module.css'
 
 import GameOption from '../gameOption/GameOption'
 
-import GameInfo from '../gameInfo/gameInfo'
+import GameInfo from '../gameInfo/GameInfo'
 
 const winnerTable = [
     [0,1,2],
